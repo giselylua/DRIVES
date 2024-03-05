@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfxPreset plugin="com.revisionfx.RSMB" context="Filter" name="RSMB">
+<OfxPlugin>com.revisionfx.RSMB</OfxPlugin>
+<OfxPluginVersion>3 40001</OfxPluginVersion>
+<OfxParamTypeChoice name="menuTrackFrame"><OfxParamValue>0</OfxParamValue></OfxParamTypeChoice>
+<OfxParamTypeChoice name="menuDisplay"><OfxParamValue>0</OfxParamValue></OfxParamTypeChoice>
+<OfxParamTypeDouble name="valMBAmount"><OfxParamValue>1.300000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="valMBSensitivity"><OfxParamValue>70.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="valMBAmountFG1"><OfxParamValue>0.500000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeDouble name="valMBSensitivityFG1"><OfxParamValue>70.000000</OfxParamValue></OfxParamTypeDouble>
+<OfxParamTypeChoice name="menuFG1MatteChannel"><OfxParamValue>3</OfxParamValue></OfxParamTypeChoice>
+<OfxParamTypeDouble name="valFG1InvMatteShrink"><OfxParamValue>0.000000</OfxParamValue></OfxParamTypeDouble>
+</OfxPreset>
